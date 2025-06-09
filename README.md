@@ -22,7 +22,7 @@ Deepfake-Detection-System
 - models (Trained model weights)
 - data - Dataset folders (train/validation/test)
 - app.py                       (Code for making webapp)
-- results/                       (Prediction results, confusion matrices, and plots)
+- results                       (Prediction results, confusion matrices, and plots)
 - requirements.txt               (Dependencies)
 - README.md                      (Project documentation)
 
