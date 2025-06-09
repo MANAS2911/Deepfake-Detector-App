@@ -87,5 +87,5 @@ Feel free to connect on [LinkedIn](www.linkedin.com/in/contactmanaschoudhary) or
 If you like this project, give it a ⭐ to help others find it!
 
 ## App Link
-[Deepfake Detection System]([https://creditriskradar.streamlit.app/](https://huggingface.co/spaces/Maddy2911/deepfake-detector))
+[Deepfake Detection System](https://huggingface.co/spaces/Maddy2911/deepfake-detector)
 
