@@ -19,12 +19,12 @@ A deep learning-powered image forensics system built using ResNet50 and Feature 
 ## 📁 Project Structure
 
 Deepfake-Detection-System
-- models                       # Trained model weights
-- data                         # Dataset folders (train/validation/test)
-- app.py                       # Code for making webapp
-- results/                       # Prediction results, confusion matrices, and plots
-- requirements.txt               # Dependencies
-- README.md                      # Project documentation
+- models (Trained model weights)
+- data - Dataset folders (train/validation/test)
+- app.py                       (Code for making webapp)
+- results/                       (Prediction results, confusion matrices, and plots)
+- requirements.txt               (Dependencies)
+- README.md                      (Project documentation)
 
 ## 🛠️ Installation
 
